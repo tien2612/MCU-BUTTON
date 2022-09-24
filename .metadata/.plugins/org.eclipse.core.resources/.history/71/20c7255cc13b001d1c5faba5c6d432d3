@@ -37,6 +37,7 @@ void subKeyProcess(){
 			}
 			break;
 	}
+
 }
 void getKeyInput(){
   KeyReg2 = KeyReg1;

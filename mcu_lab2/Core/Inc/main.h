@@ -72,6 +72,8 @@ void Error_Handler(void);
 #define SEG7_1_GPIO_Port GPIOB
 #define SEG7_2_Pin GPIO_PIN_2
 #define SEG7_2_GPIO_Port GPIOB
+#define BUTTON2_Pin GPIO_PIN_10
+#define BUTTON2_GPIO_Port GPIOA
 #define SEG7_3_Pin GPIO_PIN_3
 #define SEG7_3_GPIO_Port GPIOB
 #define SEG7_4_Pin GPIO_PIN_4
